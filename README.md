@@ -1,23 +1,26 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I prefer become backend software engnieer, Backend development typically involves languages like Java, Python, Ruby, Node.js, PHP, and C#. Gaining a deep understanding of one or more of these languages is essential.
+ Knowledge of database technologies like SQL (e.g., MySQL, PostgreSQL) and NoSQL (e.g., MongoDB, Cassandra) is vital. Understanding how to design, query, and manage databases is a key part of backend development.
+ Each language has popular frameworks that simplify backend development. For instance, if you choose Python, you might learn Django or Flask. Java developers often use Spring or Hibernate.Backend developers often create and manage APIs (Application Programming Interfaces). Understanding RESTful services and how to integrate various services is important.
+ Basic knowledge of DevOps practices like continuous integration and continuous deployment (CI/CD) can be beneficial. Tools like Jenkins, Docker, and Kubernetes are commonly used.
 
-{Provide a description of your software}
+c++
 
-{Describe your purpose for creating this software.}
+use c++ to create a Number guessing game
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]https://youtu.be/6UQfoDn-3s0
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+{VS CODE}
 
-{Describe the programming language that you used}
+{c++}
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [C++ Tutorial for Beginners - Learn C++ in 1 Hour]https://www.youtube.com/watch?v=ZzaPdXTrSb8
+
